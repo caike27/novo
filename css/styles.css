@@ -1,0 +1,195 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+
+body{
+
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #e6e6e6e6;
+
+}
+
+#topo{
+	
+	
+	width: auto;
+	height: 170px;
+	text-align: center;
+	text-decoration: none;
+	background: #F1B30A;
+	font-weight: bold;
+
+}
+
+.menu{
+
+
+	color: white;
+	padding: 20px;
+	margin-top: 10px;
+
+}
+
+.tec{
+	color: #4E4E4E;
+	font-size: 40px;
+	
+
+}
+
+.blog{
+	color: white;
+	font-size: 40px;
+
+	
+}
+#titulo{
+	display: inline-flex;
+	margin-top: 50px;
+
+}
+
+a:link, a:visited{
+	text-decoration: none;
+	padding-right: 20px;
+	color: white;
+	
+	
+}
+
+.home:hover{
+  color: #FBC901;
+  background-color: white;
+  padding: 12px 5px;
+
+}
+.jogos:hover{
+  color: #FBC901;
+  background-color: white;
+  padding: 12px 5px;
+
+}
+.celulares:hover{
+  color: #FBC901;
+  background-color: white;
+  padding: 12px 5px;
+
+}
+.informatica:hover{
+  color: #FBC901;
+  background-color: white;
+  padding: 12px 5px;
+
+}
+.eletronica:hover{
+  color: #FBC901;
+  background-color: white;
+  padding: 12px 5px;
+
+}
+
+
+.menu{
+
+	padding: 20px;
+}
+
+#recentes{
+	
+	background-color: #FFFFFF;
+	width: 250px;
+	text-decoration: block;
+	padding: 10px;
+	margin-top: 20px;
+	margin-left: 900px;
+}
+
+.titulo1{
+	background-color: #6F6F6F;
+	padding: 20px 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+
+#categorias{
+	
+	background-color: #FFFFFF;
+	width: 250px;
+	text-decoration: block;
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: 900px;
+}
+.titulo1{
+	background-color: #6F6F6F;
+	padding: 10px 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+#vejamais1{
+padding: 2px 2px;
+color: #FBC901;
+
+
+}
+#vejamais2{
+	padding: 2px 2px;
+	color: #FBC901
+}
+
+
+
+.menucategorias{
+	text-decoration: block;
+	padding:  12px 2px;
+	
+
+}
+
+#home2{
+	color: #FBC901;
+}
+#jogos2{
+	color: #FBC901;
+}
+#celulares2{
+	color: #FBC901;
+}
+#eletronica2{
+	color: #FBC901;
+}
+#informatica2{
+	color: #FBC901;
+}
+
+
+#container{
+	background-color: white;
+	width: 600px;
+	padding: 30px;
+	margin-left: 150px;
+	align-items: center;
+	margin-top: -515px;
+
+
+}
+
+h1{
+	color: #FBC901;
+}
+
+
+.img1{
+	width: 600px;
+	padding: 20px 1px;
+}
+
+.img2{
+	width: 600px;
+	padding: 20px 1px;
+}
